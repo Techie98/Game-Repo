@@ -4,7 +4,7 @@
 !Brick Breaker
 
 ## Description
-This is a simple implementation of the classic Brick Breaker game using Python and the Tkinter library. The player controls a paddle to bounce a ball and break a wall of bricks. The game features power-ups, and a scoring system.
+This is a simple implementation of the classic Brick Breaker game using java and swing concept. The player controls a paddle to bounce a ball and break a wall of bricks. The game features power-ups, and a scoring system.
 
 ## Features
 - Paddle movement using arrow keys
